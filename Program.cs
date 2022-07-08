@@ -116,7 +116,7 @@
     
     }
     class bankAccount{
-        string name;
+        //string name;
         decimal balance;
     }
 }

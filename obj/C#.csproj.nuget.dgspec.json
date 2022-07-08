@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Documents\\Cursos\\C#\\C#.csproj": {}
+    "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Documents\\Cursos\\C#\\C#.csproj": {
+    "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\Cursos\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"

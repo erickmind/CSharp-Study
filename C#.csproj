@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <StartupObject>csharpbook.textFunctions</StartupObject>
+    <StartupObject>csharpbook.dataConversion</StartupObject>
     <RootNamespace>C_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>

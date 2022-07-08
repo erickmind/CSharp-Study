@@ -51,7 +51,29 @@ namespace csharpbook{
                 Console.WriteLine($"Text {count++}:{split}");
             }
             Console.WriteLine($"Text Count: {splitted.Count()}");
-            
+
+            Console.WriteLine("---------- Split/Count -----------");
+            Console.WriteLine(text.Substring(6));
+
+            string[] fruits = {"3 bananas", "65 apples", "1 grape"};
+            int qnt = 0;
+            foreach(string fruit in fruits){
+                qnt += int.Parse(fruit.Substring(0, fruit.IndexOf(" ")));
+                Console.WriteLine(fruit.Substring(fruit.IndexOf(" ")+1));
+            }
+            Console.WriteLine($"Number of fruits: {qnt}");
+
+            Console.WriteLine("---------- isNullOrEmpty -----------");
+
+            string name = "Erick";
+            string lastName = null;
+
+            if(!String.IsNullOrEmpty(name) && !String.IsNullOrEmpty(lastName))
+                Console.WriteLine($"Full name: {name} {lastName}");
+            else
+                Console.WriteLine($"Name: {name}");
+
+            Console.WriteLine("---------- isNullOrEmpty -----------");
         }
     }
 }
