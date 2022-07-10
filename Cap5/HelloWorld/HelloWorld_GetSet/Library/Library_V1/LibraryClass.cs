@@ -37,5 +37,9 @@ namespace LibraryClass{
             get { return this.status; }
             set { this.status = value; }
         }
+
+        public virtual void Discard(){
+            title = "This book has been donated.";
+        }
     }
 }

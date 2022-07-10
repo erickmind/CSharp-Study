@@ -19,5 +19,9 @@ namespace LibraryClass{
             get { return this.releaseYear; }
             set { this.releaseYear = value; }
         }
+
+        public override void Discard(){
+            this.Title = "The magazine has been recycled.";
+        }
     }
 }

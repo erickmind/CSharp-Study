@@ -16,8 +16,6 @@ namespace csharpbook{
             WriteLine(names[0]);
             names.RemoveAt(0);
             WriteLine(names[0]);
-
-            //Generic Types
         }
 
     }
