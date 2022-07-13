@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 
 namespace csharpbook{
-    class dataCollections{
+    class DataCollections{
         static void Main(string[] args){
             //Arrays
             int[] array = {1,2,3,4};

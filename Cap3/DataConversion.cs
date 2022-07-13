@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace csharpbook{
     
-    class dataConversion{
+    class DataConversion{
 
         static void Main(string[] args){
             WriteLine("---------- Boxing -----------");

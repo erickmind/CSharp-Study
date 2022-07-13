@@ -5,7 +5,7 @@ using System.Globalization;
 
 namespace csharpbook{
 
-    class dateFunctions{
+    class DateFunctions{
 
         static void Main(string[] args){
 

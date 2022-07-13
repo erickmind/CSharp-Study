@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {}
+    "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {
+    "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
-        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
+        "projectPath": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
+        "packagesPath": "C:\\Users\\erick.knascimento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\erick.knascimento\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

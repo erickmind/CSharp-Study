@@ -1,5 +1,5 @@
 namespace csharpbook{
-    class textFunctions{
+    class TextFunctions{
 
         static void Main(string[] args){
             Console.WriteLine("---------- Trim -----------");
