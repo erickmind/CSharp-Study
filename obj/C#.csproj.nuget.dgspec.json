@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {}
+    "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {
+    "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
-        "packagesPath": "C:\\Users\\erick.knascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
+        "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erick.knascimento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -25,7 +25,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -49,6 +53,58 @@
           "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj",
+        "projectName": "CompDLL",
+        "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
               "privateAssets": "all"
             }
           },

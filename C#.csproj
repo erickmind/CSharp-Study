@@ -1,9 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\DLLComponents\CompDLL\CompDLL.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <StartupObject>csharpbook.LinqTests</StartupObject>
+    <StartupObject>csharpbook.ConsumeDLL</StartupObject>
     <RootNamespace>C_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>

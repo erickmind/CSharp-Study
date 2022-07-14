@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "C#/1.0.0": {
+        "dependencies": {
+          "CompDLL": "1.0.0"
+        },
         "runtime": {
           "C#.dll": {}
+        }
+      },
+      "CompDLL/1.0.0": {
+        "runtime": {
+          "CompDLL.dll": {}
         }
       }
     }
   },
   "libraries": {
     "C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompDLL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

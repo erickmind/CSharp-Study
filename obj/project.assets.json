@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CompDLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CompDLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompDLL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CompDLL/1.0.0": {
+      "type": "project",
+      "path": "../DLLComponents/CompDLL/CompDLL.csproj",
+      "msbuildProject": "../DLLComponents/CompDLL/CompDLL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "CompDLL >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\erick.knascimento\\.nuget\\packages\\": {}
+    "C:\\Users\\erick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
-      "packagesPath": "C:\\Users\\erick.knascimento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick.knascimento\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
+      "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\C#.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erick.knascimento\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj": {
+              "projectPath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
