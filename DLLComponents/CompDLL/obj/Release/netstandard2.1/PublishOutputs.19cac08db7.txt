@@ -1,0 +1,3 @@
+C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\publish\CompDLL.dll
+C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\publish\CompDLL.deps.json
+C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\publish\CompDLL.pdb
