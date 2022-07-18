@@ -8,3 +8,13 @@ C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\bin\Debug\netstandard2.
 C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\bin\Debug\netstandard2.1\CompDLL.pdb
 C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.dll
 C:\Users\erick\Documents\Cursos\C#\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.pdb
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\bin\Debug\netstandard2.1\CompDLL.deps.json
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\bin\Debug\netstandard2.1\CompDLL.dll
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\bin\Debug\netstandard2.1\CompDLL.pdb
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.AssemblyInfo.cs
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.dll
+C:\Users\erick\Documents\Cursos\C#\CSharp-Study\DLLComponents\CompDLL\obj\Debug\netstandard2.1\CompDLL.pdb

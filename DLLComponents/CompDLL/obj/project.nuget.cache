@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WVZj4fdj1ACvFutyX1uUF5KVBrMq/GwiZgEgcRnzXHRF4uU0/xSrPgqYSF+7ylOFkmrn9sk44VMlTXP1cVN7PA==",
+  "dgSpecHash": "MCup9zrL8llAs+/OTQBF+It/uQQlh8EcUdtfhxgxiDZTNVzwjwIRKwlIzIWI5J9DfyepSbUAo6pRLnQkU0K0GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\DLLComponents\\CompDLL\\CompDLL.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\Cursos\\C#\\CSharp-Study\\DLLComponents\\CompDLL\\CompDLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
